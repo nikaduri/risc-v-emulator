@@ -75,8 +75,9 @@ Compile all Java files with:
 
 ```bash
 javac *.java
-
+```
 ### Running the Program
 
 ```bash
 java Main.java (name of the .s file)
+```
